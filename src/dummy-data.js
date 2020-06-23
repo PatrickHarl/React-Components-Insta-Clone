@@ -17,6 +17,14 @@ const dummyData = [
             {
                 username: "martinseludo",
                 text: "Can't wait to try it!"
+            },
+            {
+                username: "mynewinfo",
+                text: "My test info!"
+            },
+            {
+                username: "mynewinfo2",
+                text: "My test info2!"
             }
         ]
     },
@@ -42,6 +50,10 @@ const dummyData = [
             {
                 username: "dennis_futbol",
                 text: "It that injustice"
+            },
+            {
+                username: "moretestdata",
+                text: "Another test!"
             }
         ]
     }
